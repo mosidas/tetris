@@ -1,11 +1,10 @@
 # tetris
 
-Windows・macOS・Linux で動くデスクトップ版のテトリス。
+デスクトップ版のテトリス。
 
 ## 動作環境
 
 - Windows・macOS・Linux
-- .NET SDK 10.0 以上
 
 ## インストール
 
